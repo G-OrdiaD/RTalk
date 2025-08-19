@@ -15,7 +15,6 @@ COPY . .
 
 # Stage 2: Final production image
 FROM node:18-alpine
-
 WORKDIR /app
 
 # Copy the installed dependencies and application from the builder stage

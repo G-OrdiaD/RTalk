@@ -1,7 +1,3 @@
-# Default values for chat-app-chart.
-
-# These values are needed by the default Helm templates.
-# You can leave these as default and use your specific manifest files.
 serviceAccount:
   create: false
 service:
