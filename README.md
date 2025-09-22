@@ -62,7 +62,7 @@ For a quick local setup, use Docker Compose to spin up all the services.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-repo/rtalk.git
+git clone https://github.com/G-OrdiaD/RTalk.git
 cd rtalk
 
 # 2. Start the services
